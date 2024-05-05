@@ -1,6 +1,5 @@
-function signUp(){
-    document.querySelector(".signup-button").addEventListener("click", () =>{
-        window.location.replace("signup.html");
-    });
-
+function signUp() {
+  document.querySelector(".signup-button").addEventListener("click", () => {
+    window.location.replace("signup.html");
+  });
 }
